@@ -16,6 +16,7 @@ public class Jat_task7_p1
 		try
 		{
 			double div=num1/num2;
+			System.out.println("Result: " + div);
 		}
 		catch(ArithmeticException ae)
 		{
